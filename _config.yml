@@ -33,22 +33,22 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: Hyeunjee Kim
   avatar: leonids-logo.png
-  job: "PHP & Ruby Developer"
-  bio: "A backend developer who loves design awesome things. Working for RendezvousCheznous atm in Marseille, France."
-  email: zourenyuan@gmail.com
+  job: "C & C++ Developer"
+  bio: "A backend developer who loves design awesome things. Working for Petabi in seoul, South of Korea."
+  email: beyond.torvalds@gmail.com
   disqus-shortname: renyuanzblog
-  twitter: renyuan814 #username
-  facebook: #username
+  twitter: 
+  facebook: 
   google:
-    plus: #username
+    plus: Hyeunjee Kim
     analytics: UA-62251910-2
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: renyuanz #username
+  github: betorvalds #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: renyuan-zou-69b7038a #username
   xing: #username
